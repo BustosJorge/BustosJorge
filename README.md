@@ -1,8 +1,34 @@
+[![Baner-Jorge-Bustos-1362x455.png](https://i.postimg.cc/CxdnD1z2/Baner-Jorge-Bustos-1362x455.png)](https://postimg.cc/758Lrq11)
+
 ## Hi, I’m Jorge Bustos <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Mechatronics+Engineer" /></a>
-</p>
-<img src="https://media.licdn.com/dms/image/D4E16AQEbVJkwFq-7nQ/profile-displaybackgroundimage-shrink_350_1400/0/1687925401275?e=1724889600&v=beta&t=4M50tDDlTS8S77a3TUD2xPCMh9Ab59deCcL1kAjo_Ac">
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm studying all time.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, .\
+✉️ &nbsp;You can shoot me an email at bustos.jorge21@gmail.com I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Altium_Designer](https://img.shields.io/badge/Altium-Designer?style=flat&logo=Altium-Designer&labelColor=05122A&color=05122A)
+![Arduino](https://img.shields.io/badge/Arduino%20---?logo=Arduino&color=05122A)
+![Unity](https://img.shields.io/badge/Unity%20---?style=flat&logo=Unity%20---&color=05122A)
+
+
+
+
 
 
 ## Projects
