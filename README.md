@@ -12,7 +12,6 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -23,6 +22,12 @@
 ![Altium_Designer](https://img.shields.io/badge/Altium-Designer?style=flat&logo=Altium-Designer&labelColor=05122A&color=05122A)
 ![Arduino](https://img.shields.io/badge/Arduino%20---?logo=Arduino&color=05122A)
 ![Unity](https://img.shields.io/badge/Unity%20---?style=flat&logo=Unity%20---&color=05122A)
+
+### ✍️ &nbsp;Learning
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C#](https://img.shields.io/badge/C%23%20---?style=flat&logo=C%23&labelColor=05122A&color=05122A)
+![.NET](https://img.shields.io/badge/.NET%20---?style=flat&logo=.NET&labelColor=05122A&color=05122A)
+
 
 
 
