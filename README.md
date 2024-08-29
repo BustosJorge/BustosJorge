@@ -8,7 +8,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I try to improve all the time.\
 ✉️ &nbsp;You can shoot me an email at bustos.jorge21@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/10SDKko2nT9pYeN648Pw951yAzXcLvKMd/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://bustosjorge.github.io/Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
