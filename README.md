@@ -45,6 +45,14 @@
 
 </a>
 
+<a href="BusinessCard">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BustosJorge&repo=BusinessCard&theme=tokyonight"/>
+
+</a>
+
 <a href="https://github.com/BustosJorge/BustosJorge.github.io">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
