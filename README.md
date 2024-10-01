@@ -45,7 +45,7 @@
 
 </a>
 
-<a href="BusinessCard">
+<a href="https://github.com/BustosJorge/BusinessCard">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
